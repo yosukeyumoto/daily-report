@@ -13,7 +13,7 @@ const firebaseConfig = {
   projectId: import.meta.env.VITE_PROJECT_ID,
   storageBucket: import.meta.env.VITE_STORAGE_BUCKET,
   messagingSenderId: import.meta.env.VITE_MESSAGING_SENDER_ID,
-  appId: import.meta.env.APP_I
+  appId: import.meta.env.APP_ID
   // apiKey: "AIzaSyD_N0cZpUA9-x2DuAVEkpZMf8vyLXOvXEM",
   // authDomain: "daily-report-3b311.firebaseapp.com",
   // projectId: "daily-report-3b311",
